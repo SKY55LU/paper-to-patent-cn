@@ -43,7 +43,6 @@ This skill encodes a repeatable workflow for that conversion. It is intentionall
 paper-to-patent-cn-repo/
 ├── README.md
 ├── LICENSE
-├── SECURITY.md
 ├── requirements.txt
 ├── .gitignore
 └── paper-to-patent-cn/
@@ -113,18 +112,6 @@ The skill follows these hard rules:
 - Every technical feature should be traceable to the paper, user-provided notes, or the source fact matrix.
 - Any unsupported but useful content belongs in `gaps`, not in the formal application body.
 - The generated DOCX must contain no embedded image media unless the workflow is intentionally changed.
-
-## Privacy and Disclosure Warning
-
-Patent drafts often contain unpublished technical disclosure. Before committing or sharing, check that you are not publishing:
-
-- original papers that are not meant to be public;
-- unpublished invention disclosures;
-- generated patent drafts containing confidential claims;
-- PDFs, DOCX files, figures, screenshots, or extracted text;
-- personal names, phone numbers, email addresses, ID numbers, local paths, API keys, tokens, or institution-specific templates.
-
-Use the included `.gitignore` as a baseline, but review every commit manually.
 
 ## Dependencies
 
