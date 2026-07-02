@@ -1,0 +1,8 @@
+interface:
+  display_name: "Paper to Patent CN"
+  short_description: "Generate final-format Chinese patent DOCX/PDF from papers"
+  brand_color: "#1D4ED8"
+  default_prompt: "Use $paper-to-patent-cn to convert this paper into a source-faithful Chinese invention patent application in the final Word structure."
+
+policy:
+  allow_implicit_invocation: true
