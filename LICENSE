@@ -1,0 +1,48 @@
+Non-Commercial Source-Available License
+
+Copyright (c) 2026 LYJ. All rights reserved.
+
+Permission is granted, free of charge, to view, copy, run, and modify this
+repository and its contents solely for personal, academic, research, evaluation,
+and other non-commercial purposes, subject to the conditions below.
+
+This repository includes its Codex skill instructions, prompts, workflows,
+documentation, validation rules, scripts, formatting logic, schemas, examples,
+and any other materials.
+
+Conditions:
+
+1. Attribution must be preserved. You must retain the copyright notice, this
+   license notice, and any provenance or attribution notices in all copies or
+   substantial portions of the materials.
+2. Non-commercial use only. You may not use the materials, modified versions, or
+   derivative works for commercial advantage, monetary compensation, paid
+   services, business operations, client work, consulting deliverables,
+   software-as-a-service, marketplaces, paid automation, or other commercial
+   purposes without prior written permission from the copyright holder.
+3. No commercial redistribution. You may not sell, rent, lease, sublicense,
+   publish behind a paywall, bundle into a commercial product, or redistribute
+   the materials as part of a commercial package or service.
+4. No model-training or dataset use. You may not use the materials for training,
+   fine-tuning, evaluating, benchmarking, or constructing datasets for machine
+   learning models or prompt marketplaces without prior written permission.
+5. No false authorship. You may not remove attribution, claim authorship,
+   represent the materials as your original work, or imply endorsement or
+   affiliation by the copyright holder.
+6. Confidentiality remains your responsibility. Do not publish user papers,
+   unpublished invention disclosures, generated patent drafts, personal data,
+   credentials, local paths, or institution-specific templates.
+
+Commercial use, redistribution beyond the scope above, relicensing, sublicensing,
+or use in paid products or services requires prior written permission from LYJ.
+
+Viewing this repository on GitHub or receiving a copy does not grant any patent
+license, trademark license, trade secret license, database right, moral-right
+waiver, or other intellectual-property right.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, LEGAL SUFFICIENCY, PATENT
+VALIDITY, OR FITNESS FOR ANY PATENT FILING OR LEGAL PROCEEDING. THE COPYRIGHT
+HOLDER IS NOT RESPONSIBLE FOR ANY CLAIM, DAMAGE, LOSS, LIABILITY, DISCLOSURE,
+FILING ERROR, OR LEGAL CONSEQUENCE ARISING FROM REVIEW OR USE OF THE MATERIALS.
