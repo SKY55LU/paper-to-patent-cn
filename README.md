@@ -126,17 +126,6 @@ Patent drafts often contain unpublished technical disclosure. Before committing 
 
 Use the included `.gitignore` as a baseline, but review every commit manually.
 
-## Release Checklist
-
-Before uploading this repository to GitHub:
-
-```powershell
-rg -n "api_key|secret|password|Authorization|Bearer|sk-|身份证|电话|邮箱" .
-python .\paper-to-patent-cn\scripts\audit_patent_content_json.py .\sample_patent_content.json
-```
-
-Do not upload real generated patent files as examples unless the underlying disclosure is already public and you have permission to share it.
-
 ## Dependencies
 
 - `python-docx`: DOCX generation.
