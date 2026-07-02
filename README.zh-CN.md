@@ -38,7 +38,6 @@ paper-to-patent-cn-repo/
 ├── README.md
 ├── README.zh-CN.md
 ├── LICENSE
-├── SECURITY.md
 ├── requirements.txt
 ├── .gitignore
 └── paper-to-patent-cn/
@@ -87,24 +86,6 @@ python .\paper-to-patent-cn\scripts\validate_final_word_format.py .\outputs\pate
 - 权利要求应避免 `大约`、`可能`、`优选`、`可以`、`比如`、`不限于` 等不确定表述。
 - 缺失但重要的信息应写入 `gaps`，而不是写进正式专利正文。
 - 生成的 DOCX 默认不包含嵌入图片。
-
-## 隐私与披露警告
-
-专利草稿可能包含未公开技术披露。上传或分享前，请确认没有提交：
-
-- 论文 PDF 或全文抽取文本；
-- 生成的专利 DOCX/PDF；
-- 真实发明披露材料；
-- 专利内容 JSON；
-- 图片、截图、SVG/PNG 附图资产；
-- 个人姓名、电话、邮箱、身份证号、本机路径、API key、token；
-- 机构内部模板或未公开流程。
-
-建议发布前运行：
-
-```powershell
-rg -n "api_key|secret|password|Authorization|Bearer|sk-|身份证|电话|邮箱" .
-```
 
 ## 授权
 
